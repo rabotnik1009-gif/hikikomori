@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+sent_ads.db
+kufar_debug_*.json
